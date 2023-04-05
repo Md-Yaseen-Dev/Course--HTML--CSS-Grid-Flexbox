@@ -34,7 +34,7 @@
 
 - > 👉  **04 - Grid lines**  &#8594; [Click-here](./CSS%20Grid%20Tutorial/04.%20Grid%20lines/)
 
-- > 👉  **05 - Nested Grids **  &#8594; [Click-here](./CSS%20Grid%20Tutorial/05.%20Nested%20Grids/)
+- > 👉  **05 - Nested Grids**  &#8594; [Click-here](./CSS%20Grid%20Tutorial/05.%20Nested%20Grids/)
 
 - > 👉  **06 - Aligning and justify items**  &#8594; [Click-here](./CSS%20Grid%20Tutorial/06.%20Aligning%20and%20justifying%20items/)
 
@@ -59,18 +59,16 @@
 - > 👉  **09 - Mobile styles : Part-2**  &#8594; [Click-here](./Mobile-First%20Resopnsive%20Build%20with%20CSS%20Grid/09.%20Mobile%20styles%20(part-2)/)
 - > 👉  **10 - Mobile styles : Part-3**  &#8594; [Click-here](./Mobile-First%20Resopnsive%20Build%20with%20CSS%20Grid/10.%20Mobile%20styles(part-3)/)
 - > 👉  **11 - Table styles**  &#8594; [Click-here](./Mobile-First%20Resopnsive%20Build%20with%20CSS%20Grid/11.%20Table%20styles/)
-- > 👉  **12 - Laptop styles : Part-1**  &#8594; [Click-here]()
+<!-- - > 👉  **12 - Laptop styles : Part-1**  &#8594; [Click-here]()
 - > 👉  **13 - Laptop styles: Part-2**  &#8594; [Click-here]()
-- > 👉  **14 - Desktop  styles**  &#8594; [Click-here]()
+- > 👉  **14 - Desktop  styles**  &#8594; [Click-here]() -->
 
 
 ## Build Layouts with CSS Grid
 
-- > 👉  **01 - CSS Grid Basics**  &#8594; [Click-here]()
-- > 👉  **02 - Multi- Column Layout**  &#8594; [Click-here]()
-- > 👉  **03 - Holy Grail Layout**  &#8594; [Click-here]()
-- > 👉  **04 - Mansonry Style Layout : Part-1**  &#8594; [Click-here]()
-- > 👉  **05 - Masonry style Layout : Part-2**  &#8594; [Click-here]()
-- > 👉  **06 - Full width Personal Site Layout :Part-1**  &#8594; [Click-here]()
-- > 👉  **07 - Full width Personal Site Layout :Part-2**  &#8594; [Click-here]()
-- > 👉  **08 - 12 -Coloumn Grid**  &#8594; [Click-here]()
+- > 👉  **01 - CSS Grid Basics**  &#8594; [Click-here](./Build%20Layouts%20with%20Css%20Grid/01-%20CSS%20Grid%20Basics/)
+- > 👉  **02 - Multi- Column Layout**  &#8594; [Click-here](./Build%20Layouts%20with%20Css%20Grid/02-%20Multi-Column%20Layout/)
+- > 👉  **03 - Holy Grail Layout**  &#8594; [Click-here](./Build%20Layouts%20with%20Css%20Grid/03.%20Holy%20Grali%20Layout/)
+- > 👉  **04 - Mansonry Style Layout** &#8594; [Click-here](./Build%20Layouts%20with%20Css%20Grid/04.%20Masonry%20style/)
+- > 👉  **05 - Full width Personal Site Layout**  &#8594; [Click-here](./Build%20Layouts%20with%20Css%20Grid/05.%20Full-width%20Personal%20site%20Layout/)
+- > 👉  **06 - 12 -Coloumn Grid**  &#8594; [Click-here](./Build%20Layouts%20with%20Css%20Grid/06-12-column%20Grid/)
