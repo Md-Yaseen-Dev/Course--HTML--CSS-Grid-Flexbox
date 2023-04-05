@@ -1,0 +1,44 @@
+* {
+    font-family: Verdana;
+    margin: 0;
+}
+
+
+body {
+    background: #eee;
+}
+
+.wrapper {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+#blocks {
+    display: flex;
+    margin: 10px;
+    justify-content: space-between;
+}
+
+#blocks div {
+    flex: 0 0 100px;
+    padding: 40px 0;
+    text-align: center;
+    background: #ccc;
+}
+
+/* order is used to move places by highest  value at last and lowest value at first
+
+(it seen the order number and return that order first in an ascending order/) */
+
+
+.one {
+    order: 3;
+}
+.two{
+    order: 5;
+}.three {
+    order: 6;
+}.four {
+    order: -1;
+}
